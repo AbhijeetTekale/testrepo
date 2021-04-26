@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
-  <artifactId>ffmpegw6664</artifactId>
+  <artifactId>ffmpegw8664</artifactId>
   <version>2.1.1</version>
   <description>POM was created from install:install-file</description>
 </project>
